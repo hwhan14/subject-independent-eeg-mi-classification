@@ -1,2 +1,2 @@
 # subject-independent-eeg-mi-classification
-Subject-independent EEG motor imagery classification using modified Squeeze-and-Excitation blocks
+Hyewon Han and Wonjoon Choi, Application of Squeeze-and-Excitation Block for Improving Subject-Independent EEG Motor Imagery Classification Performance, Annual Spring Conference of KIPS (Submitted), 2023.
